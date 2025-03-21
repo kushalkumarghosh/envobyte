@@ -4,14 +4,14 @@ const PreviousWork = () => {
     const categories = ["UI/UX", "WEBSITE", "SEO", "LOGO DESIGN", "BANNER DESIGN", "GOOGLE ADS"];
 
     const portfolioImages = [
-        "/src/assets/pw0.png",
-        "/src/assets/pw1.png",
-        "/src/assets/pw2.png",
-        "/src/assets/pw3.png",
-        "/src/assets/pw4.png",
-        "/src/assets/pw5.png",
-        "/src/assets/pw6.png",
-        "/src/assets/pw7.png"
+        "/assets/pw0.png",
+        "/assets/pw1.png",
+        "/assets/pw2.png",
+        "/assets/pw3.png",
+        "/assets/pw4.png",
+        "/assets/pw5.png",
+        "/assets/pw6.png",
+        "/assets/pw7.png"
     ];
 
     return (

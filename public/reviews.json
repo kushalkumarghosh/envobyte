@@ -3,8 +3,8 @@
     "id": 1,
     "name": "Stephanie Powell",
     "platform": "Fiverr",
-    "image": "/src/assets/Stephanie Powell.jpg",
-    "platformLogo": "/src/assets/icons/fiver_icon.png",
+    "image": "/assets/Stephanie Powell.jpg",
+    "platformLogo": "/assets/icons/fiver_icon.png",
     "rating": 5,
     "review": "Lorem ipsum dolor sit amet dolor sit consectetur eget maecenas sapien fusce egestas risus purus suspendisse turpis volutpat onare"
   },
@@ -12,8 +12,8 @@
     "id": 2,
     "name": "Brian Clark",
     "platform": "Upwork",
-    "image": "/src/assets/Brian Clark.jpg",
-    "platformLogo": "/src/assets/icons/upwork_icon.png",
+    "image": "/assets/Brian Clark.jpg",
+    "platformLogo": "/assets/icons/upwork_icon.png",
     "rating": 5,
     "review": "Lorem ipsum dolor sit amet dolor sit consectetur eget maecenas sapien fusce egestas risus purus suspendisse turpis volutpat onare"
   },
@@ -22,8 +22,8 @@
     "id": 3,
     "name": "Christopher White",
     "platform": "Upwork",
-    "image": "/src/assets/Christopher White.jpg",
-    "platformLogo": "/src/assets/icons/upwork_icon.png",
+    "image": "/assets/Christopher White.jpg",
+    "platformLogo": "/assets/icons/upwork_icon.png",
     "rating": 5,
     "review": "Lorem ipsum dolor sit amet dolor sit consectetur eget maecenas sapien fusce egestas risus purus suspendisse turpis volutpat onare"
   },
@@ -31,7 +31,7 @@
     "id": 4,
     "name": "Brian Clark",
     "platform": "Fiverr",
-    "image": "/src/assets/Brian Clark.jpg",
+    "image": "/assets/Brian Clark.jpg",
     "platformLogo": "/src/assets/icons/fiver_icon.png",
     "rating": 5,
     "review": "Lorem ipsum dolor sit amet dolor sit consectetur eget maecenas sapien fusce egestas risus purus suspendisse turpis volutpat onare"
@@ -40,7 +40,7 @@
     "id": 5,
     "name": "Christopher White",
     "platform": "Upwork",
-    "image": "/src/assets/Christopher White.jpg",
+    "image": "/assets/Christopher White.jpg",
     "platformLogo": "/src/assets/icons/upwork_icon.png",
     "rating": 5,
     "review": "Lorem ipsum dolor sit amet dolor sit consectetur eget maecenas sapien fusce egestas risus purus suspendisse turpis volutpat onare"
@@ -49,8 +49,8 @@
     "id": 6,
     "name": "Stephanie Powell",
     "platform": "Fiverr",
-    "image": "/src/assets/Stephanie Powell.jpg",
-    "platformLogo": "/src/assets/icons/fiver_icon.png",
+    "image": "/assets/Stephanie Powell.jpg",
+    "platformLogo": "/assets/icons/fiver_icon.png",
     "rating": 5,
     "review": "Lorem ipsum dolor sit amet dolor sit consectetur eget maecenas sapien fusce egestas risus purus suspendisse turpis volutpat onare"
   }

@@ -1,16 +1,16 @@
 [
   {
-    "image": "/src/assets/wordpress.png",
+    "image": "/assets/wordpress.png",
     "title": "WordPress Website",
     "description": "Design & Development"
   },
   {
-    "image": "/src/assets/content.png",
+    "image": "/assets/content.png",
     "title": "Content Writing",
     "description": "For entire project"
   },
   {
-    "image": "/src/assets/seo.png",
+    "image": "/assets/seo.png",
     "title": "Monthly SEO",
     "description": "Rank #1 on Google"
   }

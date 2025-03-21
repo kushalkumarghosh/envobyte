@@ -1,8 +1,9 @@
 import React from "react";
-import WebsiteIcon from "../assets/icons/icon0.svg";
-import SatisfactionIcon from "../assets/icons/icon1.svg";
-import TeamIcon from "../assets/icons/icon2.svg";
-import ClientsIcon from "../assets/icons/icon3.svg";
+import WebsiteIcon from "/assets/icons/icon0.svg";
+import SatisfactionIcon from "/assets/icons/icon1.svg";
+import TeamIcon from "/assets/icons/icon2.svg";
+import ClientsIcon from "/assets/icons/icon3.svg";
+import hero_image from "/assets/hero_image.png"
 
 
 const Hero = () => {
@@ -69,7 +70,7 @@ const Hero = () => {
                 {/* Image */}
                 <div className="mt-12 flex justify-center">
                     <img
-                        src="/src/assets/hero_image.png"
+                        src={hero_image}
                         alt="Envobyte Team"
                         className="rounded-lg shadow-lg w-full md:w-3/4"
                     />

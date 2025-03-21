@@ -37,13 +37,13 @@ const FAQSection = () => {
                             <span className="text-lg">
                                 {openIndex === index ? (
                                     <img
-                                        src="/src/assets/icons/close.svg"
+                                        src="/assets/icons/close.svg"
                                         alt="Close Icon"
                                         className="w-4 h-4 text-blue-700"
                                     />
                                 ) : (
                                     <img
-                                        src="/src/assets/icons/plus.svg"
+                                        src="/assets/icons/plus.svg"
                                         alt="Plus Icon"
                                         className="w-4 h-4 text-blue-700"
                                     />

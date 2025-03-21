@@ -2,7 +2,7 @@ import React from "react";
 
 const OurProcess = () => {
     return (
-        <div className="relative bg-cover bg-center bg-no-repeat py-24 px-6 md:px-16" style={{ backgroundImage: "url('/src/assets/OurProcess.jpg')" }}>
+        <div className="relative bg-cover bg-center bg-no-repeat py-24 px-6 md:px-16" style={{ backgroundImage: "url('/assets/OurProcess.jpg')" }}>
             <div className="absolute inset-0 bg-[#001C6C] opacity-80"></div>
 
             <div className="relative text-center text-white z-10">
@@ -16,7 +16,7 @@ const OurProcess = () => {
             </div>
 
             <div className="relative mt-16 flex flex-col items-center">
-                <img src="/src/assets/OurProcess1.png" alt="Dashed Line" className="w-full max-w-4xl" />
+                <img src="/assets/OurProcess1.png" alt="Dashed Line" className="w-full max-w-4xl" />
             </div>
 
             <div className="relative z-10 text-center mt-12 font-inter">

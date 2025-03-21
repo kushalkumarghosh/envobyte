@@ -1,10 +1,11 @@
 import React from 'react';
+import logo from '/assets/logo.png';
 
 const Navbar = () => {
   return (
     <nav className="flex justify-between items-center bg-[#190183] bg-opacity-13 font-inter p-4">
-      {/* Logo as an image */}
-      <img src="/src/assets/logo.png" alt="Envobyte Logo" className="w-32" />
+
+      <img src={logo} alt="Envobyte Logo" className="w-32" />
 
       <ul className="hidden md:flex space-x-6 text-white">
         <li className="hover:text-[#ff693b] cursor-pointer">HOME</li>

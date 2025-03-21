@@ -29,7 +29,7 @@ const Reviews = () => {
                             {Array.from({ length: review.rating }, (_, i) => (
                                 <img
                                     key={i}
-                                    src="/src/assets/icons/Star.svg"
+                                    src="/assets/icons/Star.svg"
                                     alt="star"
                                     className="w-5 h-5"
                                 />

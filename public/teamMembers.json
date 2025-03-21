@@ -3,24 +3,24 @@
     "id": 1,
     "name": "Mr Anik",
     "role": "Backend Developer",
-    "image": "/src/assets/teammember1.png"
+    "image": "/assets/teammember1.png"
   },
   {
     "id": 2,
     "name": "Mr Shahed",
     "role": "Frontend Developer",
-    "image": "/src/assets/teammember2.png"
+    "image": "/assets/teammember2.png"
   },
   {
     "id": 3,
     "name": "Mr Mainul Islam",
     "role": "SEO Expert",
-    "image": "/src/assets/teammember3.png"
+    "image": "/assets/teammember3.png"
   },
   {
     "id": 4,
     "name": "Mr Hasib",
     "role": "Content Writer",
-    "image": "/src/assets/teammember4.png"
+    "image": "/assets/teammember4.png"
   }
 ]
