@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "What Is Included In Your Web Development Service?",
+    "answer": "We offer full-stack development, UI/UX design, SEO optimization, and ongoing maintenance."
+  },
+  {
+    "id": 2,
+    "question": "What Technologies Do You Use For Web Development?",
+    "answer": "We use modern technologies such as WordPress, HTML5, CSS3, JavaScript, PHP, and MySQL to ensure your website is scalable, secure, and responsive."
+  },
+  {
+    "id": 3,
+    "question": "What If I Need Ongoing Support After The Website Is Launched?",
+    "answer": "We offer continuous support and maintenance plans to ensure your website remains updated and secure."
+  },
+  {
+    "id": 4,
+    "question": "Can I Customize My Website According To My Business Needs?",
+    "answer": "Yes! We provide fully customizable solutions tailored to your business requirements."
+  },
+  {
+    "id": 5,
+    "question": "Do You Offer SEO Services As Part Of Your Web Development?",
+    "answer": "Absolutely! We integrate SEO best practices into our development process to help you rank higher on search engines."
+  }
+]

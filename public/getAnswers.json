@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/src/assets/getanswer0.png",
+    "title": "Why Choose Envobyte",
+    "subtitle": "Experienced & trustworthy",
+    "description": "We’re experienced, trustworthy, and a team of experts in design, development, SEO, and more, delivering everything you need for success."
+  },
+  {
+    "img": "/src/assets/getanswer1.png",
+    "title": "What's Your Benefit",
+    "subtitle": "No hassle with best price",
+    "description": "A hassle-free process that saves you time, with everything you need in one seamless package at an incredibly attractive price."
+  },
+  {
+    "img": "/src/assets/getanswer2.png",
+    "title": "What is Combo Offer",
+    "subtitle": "Get 6 services in one package",
+    "description": "You’re getting web design, development, content writing, social media kit, custom graphics, and business consultation—all in one combo package!"
+  }
+]
