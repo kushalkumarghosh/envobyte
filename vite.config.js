@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: process.env.VTTE_BASE_PATH || "/envobyte",
+  base: process.env.VTTE_BASE_PATH || "/",
 });
